@@ -2,6 +2,8 @@
 # Tic Tac Toe
 Tic-Tac-Toe Game
 
+[Demo](https://favecode.github.io/tictactoe/)
+
 ## Screenshot
 
 <img src="https://github.com/favecode/tictactoe/blob/master/play.png" width="200"/>
